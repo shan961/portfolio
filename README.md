@@ -27,7 +27,7 @@ This site serves as a showcase of my skills, projects, and contact details.
 
 ## 📸 Preview
 
-
+![Portfolio Screenshot](./screenshot.png)
 
 ---
 
